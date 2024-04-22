@@ -1,13 +1,4 @@
-## 🧡 Welcome 🖤
-  
-  ##
-
-
-
-### Linguagens:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+## 🧡 Bem vindo, meu nome é Italo 🖤
 
  ### Redes Sociais:
 <div> 
@@ -16,6 +7,14 @@
  	<a href="https://www.twitch.tv/itallok1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/italo-gabriel-ba3292264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  ##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItalloK&show_icons=true&theme=buefy )
+
+### Linguagens:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 
