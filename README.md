@@ -1,4 +1,4 @@
-## 🧡 Bem vindo, meu nome é Italo 🖤
+## 🧡 Bem vindo(a), meu nome é Italo 🖤
 
  ### Redes Sociais:
 <div> 
