@@ -23,4 +23,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+### Others:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,ps,visualstudio,mysql,ai,git,dotnet,discord,blender,ae,aws" />
+  </a>
+</p>
 
