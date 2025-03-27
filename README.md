@@ -9,7 +9,7 @@
 </div>
 
   ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItalloK&show_icons=true&theme=buefy )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItalloK&show_icons=true&theme=dark )
 
 ### Linguagens:
 
