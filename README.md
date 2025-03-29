@@ -1,4 +1,4 @@
-## Olá, meu nome é Italo
+## Olá, meu nome é Italo.
 
  ### Redes Sociais:
 <div> 
