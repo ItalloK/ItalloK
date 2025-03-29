@@ -24,11 +24,11 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
 
-### Others:
+### Outros:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,ps,visualstudio,mysql,ai,git,dotnet,discord,blender,ae,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=unity,ps,mysql,net,firebase" />
   </a>
 </p>
 
