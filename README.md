@@ -1,6 +1,7 @@
 ## Eai, meu nome é Italo.
 
-- 📚 Estudante de Engenharia de Computação.
+- 📚 Estudante de Engenharia de Computação;
+- 🖥️ Desenvolvedor Mobile e Desktop;
 
 ##
 ### Linguagens:
