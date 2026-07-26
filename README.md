@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,dynamodb" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,net,firebase,nodejs,react,postman" />
+    <img src="https://skillicons.dev/icons?i=unity,net,firebase,nodejs,react,postman,aws,docker" />
   </a>
 </p>
 
