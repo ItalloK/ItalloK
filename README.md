@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,net,firebase,nodejs,react,postman,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=unity,net,firebase,nodejs,react,postman,aws,azure,docker" />
   </a>
 </p>
 
